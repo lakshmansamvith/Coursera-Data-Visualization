@@ -15,7 +15,7 @@ Coursera has more than 30000 active courses as of 2020, and a lot of people keep
 Here is the link to the Kaggle Dataset I used for this notebook. 
 [Kaggle Dataset](https://www.kaggle.com/siddharthm1698/coursera-course-dataset)
 
-Like I mentioned Coursera has more than 3000 courses, out of which this dataset has 891 course details.</br> 
+Like I mentioned Coursera has more than 3000 courses, out of which this dataset has 892 course details.</br> 
 This dataset didn't need much preprocessing because none of the values are null. 
 
          
@@ -52,3 +52,7 @@ More than 75% of the courses fall into Beginner and Intermediate categories, thi
    Most of them fall into single courses. 
        
      
+ ## 7 Barplot for showing Top 5 Institutes which provide most of the courses on Coursera
+   ![Individual Contributing Percentages](https://github.com/lakshmansamvith/Coursera-Data-Visualization/blob/master/Screenshots/Screenshot%20(151).png)
+     
+  Top 5 coursers according to how much percentage of the courses they contribute on a scale of 100% which includes all the 892 courses 
